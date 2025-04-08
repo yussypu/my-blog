@@ -58,8 +58,8 @@ Easiest way: **[Deploy to Vercel](https://vercel.com/new/git/external?repository
 Or deploy manually:
 
 ```bash
-pnpm build
-pnpm start
+npm build
+npm start
 ```
 
 
